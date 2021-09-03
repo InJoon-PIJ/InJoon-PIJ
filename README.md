@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @injoon-pij
 - 👀 I’m interested in **AI**, **NLP**
-- 🌱 I’m currently learning **pytorch**, **deep learning**
+- 🌱 I’m currently learning **tensorflow**, **deep learning**, **nlp**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => **qkr0710@gmail.com**
 
